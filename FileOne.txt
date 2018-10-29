@@ -1,8 +1,1 @@
-This is another commit
-
-<<<<<<< HEAD
-Blah blah blah
-=======
-
-I hate GitHub.
->>>>>>> 042a17a56958e06316fbe9c87a7692e0aaae167a
+Git is too confusing
