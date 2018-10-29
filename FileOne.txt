@@ -1,3 +1,8 @@
 This is the first commit 
 
+<<<<<<< HEAD
 Sdkhskhds
+=======
+Testing that if we are working on the same file it won't delete the changes that I have 
+done without killing Vivek. 
+>>>>>>> f2727f1e46432cd92d653c578d0c795356cb5eab
